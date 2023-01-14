@@ -1,4 +1,4 @@
-# oneshot_learning
+# estimate
 "One shot" learning algorithm that uses historical data to predict house prices based on particular attributes
 
 CS211 PA 2
